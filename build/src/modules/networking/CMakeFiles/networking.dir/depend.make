@@ -9,11 +9,13 @@ src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/math/
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/math/v2_t.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/math/v3_t.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/math/v4_t.h
+src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/portability/portability.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/tgf/modinfo.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/tgf/osspec.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/libs/tgf/tgf.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/modules/networking/client.cpp
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/modules/networking/network.h
+src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/modules/networking/pack.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: ../src/modules/networking/robotxml.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/include/SDL/SDL.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/include/SDL/SDL_active.h
@@ -48,6 +50,7 @@ src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/includ
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/include/enet/types.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/include/enet/unix.h
 src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: /usr/local/include/enet/win32.h
+src/modules/networking/CMakeFiles/networking.dir/client.cpp.o: config.h
 
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/interfaces/car.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/interfaces/graphic.h
@@ -63,6 +66,7 @@ src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/libs/tgf/
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/libs/tgf/tgf.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/modules/networking/network.cpp
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/modules/networking/network.h
+src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: ../src/modules/networking/pack.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: /usr/local/include/SDL/SDL.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: /usr/local/include/SDL/SDL_active.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o: /usr/local/include/SDL/SDL_audio.h
@@ -143,6 +147,7 @@ src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/libs/tgf/m
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/libs/tgf/osspec.h
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/libs/tgf/tgf.h
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/modules/networking/network.h
+src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/modules/networking/pack.h
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/modules/networking/robotxml.h
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: ../src/modules/networking/server.cpp
 src/modules/networking/CMakeFiles/networking.dir/server.cpp.o: /usr/local/include/SDL/SDL.h

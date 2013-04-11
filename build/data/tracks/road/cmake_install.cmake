@@ -48,6 +48,8 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/road/spring/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/road/street-1/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/road/wheel-1/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/road/longday/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/road/peters/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

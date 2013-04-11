@@ -153,7 +153,7 @@
 #endif
 
 /* Build system / configuration information */
-#define SD_BUILD_INFO_SYSTEM "Linux-3.5.0-25-generic"
+#define SD_BUILD_INFO_SYSTEM "Linux-3.5.0-27-generic"
 #define SD_BUILD_INFO_CMAKE_VERSION "2.8.9"
 #define SD_BUILD_INFO_CMAKE_GENERATOR "Unix Makefiles"
 #define SD_BUILD_INFO_COMPILER_VERSION "4.7.2"

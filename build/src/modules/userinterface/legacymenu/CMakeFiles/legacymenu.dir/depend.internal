@@ -13,7 +13,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/advan
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/advancedgraphconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/advancedgraphconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/aiconfig.cpp.o
  ../src/interfaces/car.h
@@ -35,7 +60,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/aicon
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/aiconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/aiconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/carsettingsmenu.cpp.o
  ../src/interfaces/car.h
@@ -58,7 +108,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/carse
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/carsettingsmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/carsettingsmenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  /usr/local/include/enet/callbacks.h
  /usr/local/include/enet/enet.h
  /usr/local/include/enet/list.h
@@ -89,9 +164,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/contr
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joy2butconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joystickconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/mouseconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/displayconfig.cpp.o
+ ../src/interfaces/camera.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/iuserinterface.h
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -103,7 +206,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/displ
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/displayconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/displayconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/graphconfig.cpp.o
  ../src/interfaces/graphic.h
  ../src/libs/portability/portability.h
@@ -116,7 +244,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/graph
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/graphconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/graphconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/hostsettingsmenu.cpp.o
  ../src/interfaces/car.h
@@ -139,7 +292,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/hosts
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/hostsettingsmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/hostsettingsmenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  /usr/local/include/enet/callbacks.h
  /usr/local/include/enet/enet.h
  /usr/local/include/enet/list.h
@@ -159,7 +337,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/joy2b
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/controlconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joy2butconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joy2butconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/joystickconfig.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -171,10 +374,38 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/joyst
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/controlconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joystickconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/joystickconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/monitorconfig.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/graphic.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/iuserinterface.h
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -186,7 +417,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/monit
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/monitorconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/monitorconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/mouseconfig.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -198,9 +454,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/mouse
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/controlconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/mouseconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/mouseconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/openglconfig.cpp.o
+ ../src/interfaces/camera.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/iuserinterface.h
  ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
@@ -214,7 +498,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/openg
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/openglconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/openglconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/playerconfig.cpp.o
  ../src/interfaces/car.h
@@ -244,7 +553,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/playe
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/controlconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/playerconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/playerconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/simuconfig.cpp.o
  ../src/interfaces/car.h
@@ -268,24 +602,78 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/simuc
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/simuconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/simuconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/confscreens/soundconfig.cpp.o
- ../src/interfaces/graphic.h
+ ../src/interfaces/camera.h
+ ../src/interfaces/igraphicsengine.h
+ ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
+ ../src/interfaces/iuserinterface.h
+ ../src/interfaces/sound.h
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
  ../src/libs/tgf/tgf.h
  ../src/libs/tgf/tgf.hpp
- ../src/libs/tgfclient/glfeatures.h
- ../src/libs/tgfclient/gui.h
- ../src/libs/tgfclient/guifont.h
  ../src/libs/tgfclient/guiscreen.h
  ../src/libs/tgfclient/tgfclient.h
+ ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/confscreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/soundconfig.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/confscreens/soundconfig.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/legacymenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
  ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
@@ -315,7 +703,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/legacymenu.cpp.o
  ../src/modules/userinterface/legacymenu/racescreens/racescreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/legacymenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/legacymenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/creditsmenu.cpp.o
  ../src/libs/tgf/modinfo.h
@@ -325,9 +738,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/credi
  ../src/libs/tgfclient/guiscreen.h
  ../src/libs/tgfclient/tgfclient.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/creditsmenu.cpp
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/exitmenu.cpp.o
+ ../src/interfaces/camera.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/iuserinterface.h
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -339,7 +780,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/exitm
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/exitmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/exitmenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/mainmenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/mainmenu.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/itrackloader.h
@@ -364,7 +830,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/mainm
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/mainmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/mainmenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/optionsmenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/optionsmenu.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -372,16 +863,43 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/optio
  ../src/libs/tgf/tgf.hpp
  ../src/libs/tgfclient/guiscreen.h
  ../src/libs/tgfclient/tgfclient.h
+ ../src/modules/userinterface/legacymenu/confscreens/advancedgraphconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/aiconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/confscreens.h
  ../src/modules/userinterface/legacymenu/confscreens/displayconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/graphconfig.h
+ ../src/modules/userinterface/legacymenu/confscreens/monitorconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/openglconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/simuconfig.h
  ../src/modules/userinterface/legacymenu/confscreens/soundconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/optionsmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/mainscreens/optionsmenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/mainscreens/splash.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -443,7 +961,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/drive
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/driverselect.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/garagemenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/fileselect.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/itrackloader.h
@@ -462,7 +1005,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/files
  ../src/libs/tgfclient/tgfclient.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/fileselect.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/garagemenu.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -476,10 +1044,38 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/garag
  ../src/libs/tgfdata/tgfdata.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/garagemenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/garagemenu.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/networkingmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/playerpref.h
@@ -508,7 +1104,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/netwo
  ../src/modules/userinterface/legacymenu/confscreens/playerconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/networkingmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  /usr/local/include/enet/callbacks.h
  /usr/local/include/enet/enet.h
  /usr/local/include/enet/list.h
@@ -518,8 +1139,11 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/netwo
  /usr/local/include/enet/win32.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/raceconfigstate.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -542,7 +1166,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racec
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/raceconfigstate.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/raceloadingmenu.cpp.o
  ../src/interfaces/car.h
@@ -562,10 +1211,38 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racel
  ../src/libs/tgfclient/tgfclient.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/raceloadingmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racemanmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -594,7 +1271,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racem
  ../src/modules/userinterface/legacymenu/confscreens/playerconfig.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racemanmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  /usr/local/include/enet/callbacks.h
  /usr/local/include/enet/enet.h
  /usr/local/include/enet/list.h
@@ -604,8 +1306,11 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racem
  /usr/local/include/enet/win32.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racenexteventmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -628,7 +1333,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racen
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racenexteventmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/raceparamsmenu.cpp.o
  ../src/interfaces/car.h
@@ -654,10 +1384,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racep
  ../src/libs/tgfdata/tgfdata.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/raceparamsmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racepitmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
  ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
@@ -679,11 +1436,39 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racep
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racepitmenu.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/raceresultsmenus.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -708,10 +1493,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racer
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/raceresultsmenus.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racerunningmenus.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
  ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
@@ -734,11 +1546,39 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racer
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racerunningmenus.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/raceselectmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -760,10 +1600,38 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/races
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/raceselectmenu.cpp
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racestartmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
+ ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
  ../src/interfaces/iuserinterface.h
  ../src/interfaces/raceman.h
@@ -788,10 +1656,37 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/races
  ../src/modules/userinterface/legacymenu/./legacymenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racestartmenu.cpp
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/racestopmenu.cpp.o
+ ../src/interfaces/camera.h
  ../src/interfaces/car.h
+ ../src/interfaces/igraphicsengine.h
  ../src/interfaces/iraceengine.h
  ../src/interfaces/isoundengine.h
  ../src/interfaces/itrackloader.h
@@ -813,7 +1708,32 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/races
  ../src/modules/userinterface/legacymenu/mainscreens/exitmenu.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racestopmenu.cpp
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/trackselect.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/itrackloader.h
@@ -837,5 +1757,30 @@ src/modules/userinterface/legacymenu/CMakeFiles/legacymenu.dir/racescreens/track
  ../src/libs/tgfdata/tracks.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/racescreens.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/userinterface/legacymenu/racescreens/trackselect.cpp
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
  /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h

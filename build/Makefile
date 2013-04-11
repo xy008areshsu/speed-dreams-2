@@ -293,6 +293,19 @@ portability/fast:
 .PHONY : portability/fast
 
 #=============================================================================
+# Target rules for targets named ephemeris
+
+# Build rule for target.
+ephemeris: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ephemeris
+.PHONY : ephemeris
+
+# fast build rule for target.
+ephemeris/fast:
+	$(MAKE) -f src/libs/ephemeris/CMakeFiles/ephemeris.dir/build.make src/libs/ephemeris/CMakeFiles/ephemeris.dir/build
+.PHONY : ephemeris/fast
+
+#=============================================================================
 # Target rules for targets named human
 
 # Build rule for target.
@@ -356,6 +369,19 @@ FrameworkRobot: cmake_check_build_system
 FrameworkRobot/fast:
 	$(MAKE) -f src/drivers/FrameworkRobot/CMakeFiles/FrameworkRobot.dir/build.make src/drivers/FrameworkRobot/CMakeFiles/FrameworkRobot.dir/build
 .PHONY : FrameworkRobot/fast
+
+#=============================================================================
+# Target rules for targets named networkhuman
+
+# Build rule for target.
+networkhuman: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 networkhuman
+.PHONY : networkhuman
+
+# fast build rule for target.
+networkhuman/fast:
+	$(MAKE) -f src/drivers/networkhuman/CMakeFiles/networkhuman.dir/build.make src/drivers/networkhuman/CMakeFiles/networkhuman.dir/build
+.PHONY : networkhuman/fast
 
 #=============================================================================
 # Target rules for targets named ssggraph
@@ -423,6 +449,32 @@ simuv4/fast:
 .PHONY : simuv4/fast
 
 #=============================================================================
+# Target rules for targets named simuv2
+
+# Build rule for target.
+simuv2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 simuv2
+.PHONY : simuv2
+
+# fast build rule for target.
+simuv2/fast:
+	$(MAKE) -f src/modules/simu/simuv2/CMakeFiles/simuv2.dir/build.make src/modules/simu/simuv2/CMakeFiles/simuv2.dir/build
+.PHONY : simuv2/fast
+
+#=============================================================================
+# Target rules for targets named simuv3
+
+# Build rule for target.
+simuv3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 simuv3
+.PHONY : simuv3
+
+# fast build rule for target.
+simuv3/fast:
+	$(MAKE) -f src/modules/simu/simuv3/CMakeFiles/simuv3.dir/build.make src/modules/simu/simuv3/CMakeFiles/simuv3.dir/build
+.PHONY : simuv3/fast
+
+#=============================================================================
 # Target rules for targets named track
 
 # Build rule for target.
@@ -473,6 +525,19 @@ standardgame: cmake_check_build_system
 standardgame/fast:
 	$(MAKE) -f src/modules/racing/standardgame/CMakeFiles/standardgame.dir/build.make src/modules/racing/standardgame/CMakeFiles/standardgame.dir/build
 .PHONY : standardgame/fast
+
+#=============================================================================
+# Target rules for targets named genparoptv1
+
+# Build rule for target.
+genparoptv1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 genparoptv1
+.PHONY : genparoptv1
+
+# fast build rule for target.
+genparoptv1/fast:
+	$(MAKE) -f src/modules/racing/genparoptv1/CMakeFiles/genparoptv1.dir/build.make src/modules/racing/genparoptv1/CMakeFiles/genparoptv1.dir/build
+.PHONY : genparoptv1/fast
 
 #=============================================================================
 # Target rules for targets named telemetry
@@ -654,20 +719,25 @@ help:
 	@echo "... learning"
 	@echo "... math"
 	@echo "... portability"
+	@echo "... ephemeris"
 	@echo "... human"
 	@echo "... kilo2008"
 	@echo "... simplix"
 	@echo "... usr"
 	@echo "... FrameworkRobot"
+	@echo "... networkhuman"
 	@echo "... ssggraph"
 	@echo "... snddefault"
 	@echo "... simuv2.1"
 	@echo "... solid"
 	@echo "... simuv4"
+	@echo "... simuv2"
+	@echo "... simuv3"
 	@echo "... track"
 	@echo "... legacymenu"
 	@echo "... textonly"
 	@echo "... standardgame"
+	@echo "... genparoptv1"
 	@echo "... telemetry"
 	@echo "... networking"
 	@echo "... speed-dreams-2"

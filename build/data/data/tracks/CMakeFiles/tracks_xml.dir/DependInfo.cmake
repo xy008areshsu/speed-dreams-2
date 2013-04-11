@@ -5,11 +5,9 @@ SET(CMAKE_DEPENDS_LANGUAGES
 
 # Preprocessor definitions for this target.
 SET(CMAKE_TARGET_DEFINITIONS
-  "HAVE_CONFIG_H"
   "_SVID_SOURCE"
   "_BSD_SOURCE"
   "SHM"
-  "SD_DEBUG"
   "TRACE_OUT"
   "TRACE_LEVEL=5"
   "USE_RANDR_EXT"

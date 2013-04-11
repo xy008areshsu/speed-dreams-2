@@ -41,6 +41,7 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/dirt/dirt-6/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/dirt/mixed-1/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/dirt/mixed-2/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/data/tracks/dirt/dirt-5/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

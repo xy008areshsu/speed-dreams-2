@@ -43,6 +43,32 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/elevation.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/elevation.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/trackgen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/util.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/main.cpp.o
  ../src/interfaces/itrackloader.h
  ../src/interfaces/track.h
@@ -62,6 +88,32 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/main.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/main.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/objects.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/trackgen.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
  config.h
 src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/objects.cpp.o
  ../src/interfaces/track.h
@@ -82,6 +134,32 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/objects.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/objects.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/trackgen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/util.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/relief.cpp.o
  ../src/interfaces/track.h
  ../src/libs/math/linalg_t.h
@@ -99,6 +177,32 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/relief.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/relief.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/relief.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/trackgen.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/track.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/track.h
@@ -118,6 +222,32 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/track.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/track.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/trackgen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/util.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/util.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -127,3 +257,29 @@ src/tools/trackgen/CMakeFiles/sd2-trackgen.dir/util.cpp.o
  ../src/libs/tgfclient/tgfclient.h
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/util.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/tools/trackgen/util.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h

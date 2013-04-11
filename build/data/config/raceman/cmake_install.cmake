@@ -50,6 +50,8 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
     "/home/ares/Developer/speed-dream-2.0/speed/data/config/raceman/career.xml"
     "/home/ares/Developer/speed-dream-2.0/speed/data/config/raceman/career_supercars.xmls"
     "/home/ares/Developer/speed-dream-2.0/speed/data/config/raceman/career_ls1.xmls"
+    "/home/ares/Developer/speed-dream-2.0/speed/data/config/raceman/networkrace.xml"
+    "/home/ares/Developer/speed-dream-2.0/speed/data/config/raceman/championship-mpa1.xml"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
@@ -87,7 +89,7 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
              ELSE(CUR_DESTDIR MATCHES "[^/]")
                SET(CUR_DESTDIR_CORR "")
              ENDIF(CUR_DESTDIR MATCHES "[^/]")
-             FOREACH(FILE practice.xml;quickrace.xml;singleevent-36gp.xml;singleevent-challenge.xml;singleevent-endurance.xml;singleevent-ls-gt1.xml;singleevent-mp5.xml;championship.xml;championship-supercars.xml;championship-trb1.xml;championship-36gp.xml;championship-ls-gt1.xml;championship-mp5.xml;career.xml;career_supercars.xmls;career_ls1.xmls)
+             FOREACH(FILE practice.xml;quickrace.xml;singleevent-36gp.xml;singleevent-challenge.xml;singleevent-endurance.xml;singleevent-ls-gt1.xml;singleevent-mp5.xml;championship.xml;championship-supercars.xml;championship-trb1.xml;championship-36gp.xml;championship-ls-gt1.xml;championship-mp5.xml;career.xml;career_supercars.xmls;career_ls1.xmls;networkrace.xml;championship-mpa1.xml)
                GET_FILENAME_COMPONENT(FILENAME ${FILE} NAME)
                EXECUTE_PROCESS(COMMAND "${XMLVERSION_EXE}" "${CUR_DESTDIR_CORR}${SD_DATADIR_ABS}/version.xml" "config/raceman/${FILENAME}" "config/raceman/${FILENAME}" "${CUR_DESTDIR_CORR}${SD_DATADIR_ABS}" RESULT_VARIABLE XMLVERSTATUS)
                IF(XMLVERSTATUS)

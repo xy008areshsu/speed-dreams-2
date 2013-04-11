@@ -35,6 +35,7 @@ ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/racing/standardgame/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/racing/genparoptv1/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

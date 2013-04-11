@@ -10,11 +10,13 @@ src/modules/networking/CMakeFiles/networking.dir/client.cpp.o
  ../src/libs/math/v2_t.h
  ../src/libs/math/v3_t.h
  ../src/libs/math/v4_t.h
+ ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
  ../src/libs/tgf/tgf.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/client.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/network.h
+ /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/pack.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/robotxml.h
  /usr/local/include/SDL/SDL.h
  /usr/local/include/SDL/SDL_active.h
@@ -49,6 +51,7 @@ src/modules/networking/CMakeFiles/networking.dir/client.cpp.o
  /usr/local/include/enet/types.h
  /usr/local/include/enet/unix.h
  /usr/local/include/enet/win32.h
+ config.h
 src/modules/networking/CMakeFiles/networking.dir/network.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/graphic.h
@@ -64,6 +67,7 @@ src/modules/networking/CMakeFiles/networking.dir/network.cpp.o
  ../src/libs/tgf/tgf.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/network.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/network.h
+ /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/pack.h
  /usr/local/include/SDL/SDL.h
  /usr/local/include/SDL/SDL_active.h
  /usr/local/include/SDL/SDL_audio.h
@@ -144,6 +148,7 @@ src/modules/networking/CMakeFiles/networking.dir/server.cpp.o
  ../src/libs/tgf/osspec.h
  ../src/libs/tgf/tgf.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/network.h
+ /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/pack.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/robotxml.h
  /home/ares/Developer/speed-dream-2.0/speed/src/modules/networking/server.cpp
  /usr/local/include/SDL/SDL.h

@@ -9,6 +9,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/control.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/control.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/glfeatures.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -18,6 +44,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/glfeatures.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/glfeatures.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/gui.cpp.o
  ../src/interfaces/car.h
  ../src/interfaces/raceman.h
@@ -76,6 +128,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiapplication.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiapplication.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guibutton.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -87,6 +165,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guibutton.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guifont.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guicheckbox.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -98,6 +202,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guicheckbox.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guifont.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guicombobox.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -109,6 +239,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guicombobox.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guifont.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiedit.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -120,6 +276,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiedit.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guifont.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guieventloop.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -128,6 +310,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guieventloop.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guieventloop.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guifont.cpp.o
  ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
@@ -177,6 +385,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guihelp.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guihelp.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiimage.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -188,6 +422,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiimage.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiimage.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guilabel.cpp.o
  ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
@@ -318,6 +578,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiprogresbar.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiprogresbar.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiscreen.cpp.o
  ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
@@ -368,6 +654,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiscrollbar.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscrollbar.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiscrollist.cpp.o
  ../src/libs/tgf/modinfo.h
  ../src/libs/tgf/osspec.h
@@ -379,6 +691,32 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/guiscrollist.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscrollist.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h
 src/libs/tgfclient/CMakeFiles/tgfclient.dir/guitexture.cpp.o
  ../src/libs/portability/portability.h
  ../src/libs/tgf/modinfo.h
@@ -485,3 +823,29 @@ src/libs/tgfclient/CMakeFiles/tgfclient.dir/tgfclient.cpp.o
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/guiscreen.h
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.cpp
  /home/ares/Developer/speed-dream-2.0/speed/src/libs/tgfclient/tgfclient.h
+ /usr/local/include/SDL/SDL.h
+ /usr/local/include/SDL/SDL_active.h
+ /usr/local/include/SDL/SDL_audio.h
+ /usr/local/include/SDL/SDL_cdrom.h
+ /usr/local/include/SDL/SDL_config.h
+ /usr/local/include/SDL/SDL_cpuinfo.h
+ /usr/local/include/SDL/SDL_endian.h
+ /usr/local/include/SDL/SDL_error.h
+ /usr/local/include/SDL/SDL_events.h
+ /usr/local/include/SDL/SDL_joystick.h
+ /usr/local/include/SDL/SDL_keyboard.h
+ /usr/local/include/SDL/SDL_keysym.h
+ /usr/local/include/SDL/SDL_loadso.h
+ /usr/local/include/SDL/SDL_main.h
+ /usr/local/include/SDL/SDL_mouse.h
+ /usr/local/include/SDL/SDL_mutex.h
+ /usr/local/include/SDL/SDL_platform.h
+ /usr/local/include/SDL/SDL_quit.h
+ /usr/local/include/SDL/SDL_rwops.h
+ /usr/local/include/SDL/SDL_stdinc.h
+ /usr/local/include/SDL/SDL_thread.h
+ /usr/local/include/SDL/SDL_timer.h
+ /usr/local/include/SDL/SDL_version.h
+ /usr/local/include/SDL/SDL_video.h
+ /usr/local/include/SDL/begin_code.h
+ /usr/local/include/SDL/close_code.h

@@ -22,6 +22,14 @@ unistd.h
 config.h
 -
 
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ANN.cpp
+ANN.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ANN.h
+string_utils.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/string_utils.h
+Distribution.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/Distribution.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ANN.h
 cassert
 -
@@ -42,6 +50,16 @@ real.h
 learning.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learning.h
 
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/Distribution.cpp
+cstdio
+-
+cstdlib
+-
+cmath
+-
+Distribution.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/Distribution.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/Distribution.h
 cmath
 -
@@ -51,6 +69,12 @@ learning.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learning.h
 real.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/real.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/List.cpp
+List.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/List.h
+learn_debug.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learn_debug.h
 
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/List.h
 cstdlib
@@ -62,11 +86,29 @@ cassert
 learning.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learning.h
 
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/MathFunctions.cpp
+MathFunctions.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/MathFunctions.h
+cmath
+-
+cassert
+-
+
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/MathFunctions.h
 learning.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learning.h
 real.h
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/real.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ann_policy.cpp
+ann_policy.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ann_policy.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/ann_policy.h
+learning.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learning.h
+policy.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/policy.h
 
 /home/ares/Developer/speed-dream-2.0/speed/src/libs/learning/learn_debug.h
 real.h

@@ -36,6 +36,8 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/simu/simuv2.1/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/simu/simuv4/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/simu/simuv2/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/modules/simu/simuv3/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

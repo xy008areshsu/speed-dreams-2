@@ -15,11 +15,9 @@ SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 SET(CMAKE_TARGET_DEFINITIONS
-  "HAVE_CONFIG_H"
   "_SVID_SOURCE"
   "_BSD_SOURCE"
   "SHM"
-  "SD_DEBUG"
   "TRACE_OUT"
   "TRACE_LEVEL=5"
   "USE_RANDR_EXT"

@@ -15,6 +15,8 @@ cstdlib
 -
 cstring
 -
+cmath
+-
 direct.h
 -
 process.h
@@ -31,10 +33,14 @@ config.h
 ../src/libs/tgf/tgf.h
 cstdio
 -
+climits
+-
 osspec.h
 ../src/libs/tgf/osspec.h
 modinfo.h
 ../src/libs/tgf/modinfo.h
+string
+-
 
 /home/ares/Developer/speed-dream-2.0/speed/src/modules/telemetry/telemetry.cpp
 memory.h
@@ -48,6 +54,18 @@ fcntl.h
 tgf.h
 -
 portability.h
+-
+telemetry.h
+-
+tlm.h
+/home/ares/Developer/speed-dream-2.0/speed/src/modules/telemetry/tlm.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/modules/telemetry/telemetryitf.cpp
+cstdlib
+-
+windows.h
+-
+tgf.h
 -
 telemetry.h
 -

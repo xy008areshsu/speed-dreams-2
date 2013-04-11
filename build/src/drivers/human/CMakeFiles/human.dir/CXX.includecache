@@ -160,6 +160,16 @@ vector
 car.h
 -
 
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/human/pref.cpp
+tgfclient.h
+-
+playerpref.h
+-
+pref.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/human/pref.h
+human.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/human/human.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/human/pref.h
 string
 -

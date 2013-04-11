@@ -39,6 +39,7 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/drivers/simplix/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/drivers/usr/cmake_install.cmake")
   INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/drivers/FrameworkRobot/cmake_install.cmake")
+  INCLUDE("/home/ares/Developer/speed-dream-2.0/speed/build/src/drivers/networkhuman/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

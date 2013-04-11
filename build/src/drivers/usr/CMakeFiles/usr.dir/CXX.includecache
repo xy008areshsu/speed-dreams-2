@@ -230,6 +230,10 @@ modinfo.h
 string
 -
 
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/cardata.cpp
+cardata.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/cardata.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/cardata.h
 stdio.h
 -
@@ -290,6 +294,10 @@ xmldefs.h
 
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/linalg.h
 
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/mod.cpp
+mod.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/mod.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/mod.h
 
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/opponent.cpp
@@ -334,6 +342,32 @@ driver.h
 spline.h
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/spline.h
 
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/raceline.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+tgf.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/tgf.h
+track.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/track.h
+car.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/car.h
+raceman.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/raceman.h
+robot.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/robot.h
+robottools.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/robottools.h
+raceline.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/raceline.h
+spline.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/spline.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/raceline.h
 linalg.h
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/linalg.h
@@ -341,6 +375,10 @@ mod.h
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/mod.h
 xmldefs.h
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/xmldefs.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/spline.cpp
+spline.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/spline.h
 
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/usr/src/spline.h
 

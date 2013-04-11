@@ -11,6 +11,8 @@ cstdlib
 -
 cstring
 -
+cmath
+-
 direct.h
 -
 process.h
@@ -27,10 +29,14 @@ config.h
 ../src/libs/tgf/tgf.h
 cstdio
 -
+climits
+-
 osspec.h
 ../src/libs/tgf/osspec.h
 modinfo.h
 ../src/libs/tgf/modinfo.h
+string
+-
 
 /home/ares/Developer/speed-dream-2.0/speed/src/tools/nfsperf/mainnfsperf.cpp
 windows.h
@@ -38,8 +44,6 @@ windows.h
 io.h
 -
 cstdio
--
-cstdlib
 -
 getopt.h
 -

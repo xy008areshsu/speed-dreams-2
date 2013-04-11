@@ -22,6 +22,32 @@ src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: ../src/libs/tgf/modinfo.h
 src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: ../src/libs/tgf/osspec.h
 src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: ../src/libs/tgf/tgf.h
 src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: ../src/libs/tgf/tgf.hpp
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_active.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_audio.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_cdrom.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_config.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_cpuinfo.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_endian.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_error.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_events.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_joystick.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_keyboard.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_keysym.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_loadso.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_main.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_mouse.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_mutex.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_platform.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_quit.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_rwops.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_stdinc.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_thread.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_timer.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_version.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/SDL_video.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/begin_code.h
+src/libs/tgf/CMakeFiles/tgf.dir/eventloop.cpp.o: /usr/local/include/SDL/close_code.h
 
 src/libs/tgf/CMakeFiles/tgf.dir/file.cpp.o: ../src/libs/portability/portability.h
 src/libs/tgf/CMakeFiles/tgf.dir/file.cpp.o: ../src/libs/tgf/file.cpp
@@ -137,9 +163,11 @@ src/libs/tgf/CMakeFiles/tgf.dir/tgf.cpp.o: /usr/local/include/SDL/begin_code.h
 src/libs/tgf/CMakeFiles/tgf.dir/tgf.cpp.o: /usr/local/include/SDL/close_code.h
 src/libs/tgf/CMakeFiles/tgf.dir/tgf.cpp.o: config.h
 
+src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/portability/portability.h
 src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/tgf/modinfo.h
 src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/tgf/osspec.h
 src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/tgf/tgf.h
 src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/tgf/tgf.hpp
 src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: ../src/libs/tgf/trace.cpp
+src/libs/tgf/CMakeFiles/tgf.dir/trace.cpp.o: config.h
 

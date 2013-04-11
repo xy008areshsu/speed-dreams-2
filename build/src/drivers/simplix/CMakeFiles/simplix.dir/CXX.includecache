@@ -606,6 +606,10 @@ unitdriver.h
 unitpit.h
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/simplix/src/unitpit.h
 
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/simplix/src/unitsysfoo.cpp
+unitsysfoo.h
+/home/ares/Developer/speed-dream-2.0/speed/src/drivers/simplix/src/unitsysfoo.h
+
 /home/ares/Developer/speed-dream-2.0/speed/src/drivers/simplix/src/unitsysfoo.h
 math.h
 -
