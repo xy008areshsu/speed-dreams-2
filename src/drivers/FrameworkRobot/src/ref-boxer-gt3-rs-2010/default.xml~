@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    file          : .../ref-boxer-gt3-rs-2010/default
+    created       : 26/06/11
+    last modified : 16/10/11
+    copyright     : (C) 2011 Wolf-Dieter Beelitz
+
+    SVN version   : $Id:$
+-->
+<!--    This program is free software; you can redistribute it and/or modify  -->
+<!--    it under the terms of the GNU General Public License as published by  -->
+<!--    the Free Software Foundation; either version 2 of the License, or     -->
+<!--    (at your option) any later version.                                   -->
+<!DOCTYPE params SYSTEM "params.dtd">
+<params name="ref-boxer-gt3-rs-2010">
+
+  <section name="Brake System">
+    <attnum name="front-rear brake repartition" min="0.4" max="0.7" val="0.5"/>
+    <attnum name="max pressure" min="100" max="150000" unit="kPa" val="6000"/>
+  </section>
+
+  <section name="FrameworkRobot private">
+    <attnum name="fixed offset" min="-1.0" max="+1.0" val="0.0"/>
+    <attnum name="force pit stop" min="0" max="1" val="0"/>
+    <attnum name="fuelper100km" min="1" max="200" val="70"/>
+    <attnum name="max fuel" min="1" max="67" val="67"/>
+    <attnum name="qualifying" min="0" max="1" val="0"/>
+    <attnum name="reserve" min="0" max="20000" val="2000"/>
+    <attnum name="start fuel" min="0" max="200" val="200"/>
+
+    <attnum name="scale brake" min="0" max="2" val="0.71"/>
+    <attnum name="scale speed" min="0" max="2" val="0.71"/>
+  </section>
+
+</params>
+

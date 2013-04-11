@@ -1,0 +1,23 @@
+INCLUDE(../../../cmake/macros.cmake)
+
+SD_ADD_SUBDIRECTORY(a-speedway)
+SD_ADD_SUBDIRECTORY(arizona)
+SD_ADD_SUBDIRECTORY(b-speedway)
+SD_ADD_SUBDIRECTORY(c-speedway)
+SD_ADD_SUBDIRECTORY(caddo)
+SD_ADD_SUBDIRECTORY(d-speedway)
+SD_ADD_SUBDIRECTORY(e-speedway)
+SD_ADD_SUBDIRECTORY(e-track-5)
+SD_ADD_SUBDIRECTORY(f-speedway)
+SD_ADD_SUBDIRECTORY(longpond)
+SD_ADD_SUBDIRECTORY(newton)
+SD_ADD_SUBDIRECTORY(manton)
+SD_ADD_SUBDIRECTORY(sunshine)
+SD_ADD_SUBDIRECTORY(tennessee)
+
+# Work-in-progress speedway tracks.
+IF(NOT OPTION_OFFICIAL_ONLY)
+
+	SD_ADD_SUBDIRECTORY(milky-five)
+
+ENDIF()

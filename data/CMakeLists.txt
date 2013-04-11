@@ -1,0 +1,7 @@
+INCLUDE(../cmake/macros.cmake)
+
+ADD_SUBDIRECTORY(config)
+ADD_SUBDIRECTORY(cars)
+ADD_SUBDIRECTORY(data)
+ADD_SUBDIRECTORY(tracks)
+

@@ -1,0 +1,1 @@
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers    CMakeFiles/gennmtab.dir/gennmtab.c.o  -o gennmtab -rdynamic 

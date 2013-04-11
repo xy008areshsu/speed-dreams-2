@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+2f8e7f1b76468faf2dfd64aa6cd98699 CMakeFiles/rootdoc
+b45a3fd37ce3b6eaa052ea635cb05e1a CMakeFiles/uninstall
+070b13a47f594b671736e407f8f330e1 data/config/raceman/CMakeFiles/raceman
+854c70db4ea7a3ae66061e95a710a2cc data/data/menu/CMakeFiles/legacymenu_xml
+cb7d8568b8e01be7a7a07da03993e92f data/data/tracks/CMakeFiles/tracks_xml
+7781e570767bdc546d8b3b24fe3d2fd0 src/interfaces/CMakeFiles/interfaces
+ebf4fb848f9812e6d575005a74487a11 src/libs/math/CMakeFiles/math

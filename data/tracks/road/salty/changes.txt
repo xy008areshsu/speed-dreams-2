@@ -1,0 +1,55 @@
+v0.7
+    - added vehicles around the track
+    - added spectators on slopes
+    - renamed Salty->salty
+    
+v0.6
+    - added houses on nearby hillsides by W-E-C
+    - added tribune by W-E-C
+    - added visitor building in Parkplatz by W-E-C
+    - added ad boards around the track, original by W-E-C
+    - added marshalling boxes around the track, original by W-E-C
+    
+v0.5
+    - added inner roads
+    - tire cones in Emco-kurve
+    - created parkplatz in Ostschleife
+    - added ambulance cars
+    - created tunnel from Ostschleife
+    - added light poles in parkplatz area
+    - added complete pit building-tower complex by W-E-C
+    - added Bull 'bridge' by W-E-C
+    
+v0.4
+    - added starting grid marks
+    - added startline
+    - added custom turnmarks
+    - added stands in Schikane
+    - added trees
+    - added treelines around the track
+    - changed grass texture to darker one
+    - added starting grid
+    - added cameras
+
+v0.3
+    - added tirewalls
+    - changed surfaces' friction
+    - wider curbs (1 m) with custom texture
+    - added fences
+    - pit area texture more lighter than other asphalt surfaces
+    - added pit borders (type: wall)
+    - asphalt texture
+    - changed textures on sides
+    - added race-selection picture
+
+v0.2
+    - added bankings
+    - added pits
+
+v0.1
+    - initial release
+    - correct height
+    - correct side widths
+    - correct curb placement
+    - correct barrier placement
+    - correct length

@@ -1,0 +1,53 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3574705530/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3574705530.dir/build.make CMakeFiles/cmTryCompileExec3574705530.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3574705530.dir/CheckSymbolExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec3574705530.dir/CheckSymbolExists.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3574705530
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3574705530.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec3574705530.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3574705530 -rdynamic 
+CMakeFiles/cmTryCompileExec3574705530.dir/CheckSymbolExists.c.o:CheckSymbolExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTryCompileExec3574705530] Error 1
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTryCompileExec3574705530/fast] Error 2
+
+File /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2838342596/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2838342596.dir/build.make CMakeFiles/cmTryCompileExec2838342596.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2838342596.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec2838342596.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2838342596
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2838342596.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec2838342596.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2838342596 -rdynamic -lpthreads 
+/usr/bin/ld: error: cannot find -lpthreads
+CMakeFiles/cmTryCompileExec2838342596.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTryCompileExec2838342596] Error 1
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTryCompileExec2838342596/fast] Error 2
+
+

@@ -1,0 +1,9 @@
+TODO
+
+v0.8
+-texture work
+v0.9
+-raceline
+-add shadows
+v1.0
+-release

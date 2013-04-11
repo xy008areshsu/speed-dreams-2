@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -g    CMakeFiles/sd2-accc.dir/ac3dgroup.cpp.o CMakeFiles/sd2-accc.dir/ac3dload.cpp.o CMakeFiles/sd2-accc.dir/mainaccc.cpp.o  -o sd2-accc -rdynamic ../../libs/portability/libportability.so -Wl,-rpath,/home/ares/Developer/speed-dream-2.0/speed/build/src/libs/portability: 

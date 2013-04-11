@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers   -shared -Wl,-soname,libtxml.so -o libtxml.so CMakeFiles/txml.dir/xmlparse.c.o CMakeFiles/txml.dir/xmltok.c.o CMakeFiles/txml.dir/xmlrole.c.o CMakeFiles/txml.dir/xml.cpp.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::: 

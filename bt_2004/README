@@ -1,0 +1,16 @@
+Enhanced bt Robot
+-----------------
+
+This is an enhanced robot (AI-driver) for the The Open Racing Car Simulator
+(TORCS, www.torcs.org) based on the robot tutorial (www.berniw.org). You can
+derive your own robot from this one with running the script "convert.sh". Run
+it from this directory with "sh convert.sh". You find your robot one directory
+above.
+If you want to choose a name which does not match the pattern
+^[a-z]+_200[4-9]$ you have to edit the script. The name you choose must work
+as filename and as c function name, be careful if you change it.
+Please do not remove any copyright notices from the files!
+
+Bye, have fun,
+
+Bernhard.
