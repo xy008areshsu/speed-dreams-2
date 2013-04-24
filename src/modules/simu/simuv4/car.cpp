@@ -25,6 +25,7 @@
 #include "sim.h"
 
 const tdble aMax = 1.0f; /*  */
+bool change = false;
 
 void
 SimCarConfig(tCar *car)
@@ -245,38 +246,41 @@ SimCarUpdateForces(tCar *car)
 static void
 SimCarUpdateSpeed(tCar *car)
 {
-	tdble	Cosz, Sinz;
-	tdble	mass;
-	
-	mass = car->mass + car->fuel;
-		
-	Cosz = car->Cosz;
-	Sinz = car->Sinz;
-	
-	car->DynGCg.vel.x += car->DynGCg.acc.x * SimDeltaTime;
-	car->DynGCg.vel.y += car->DynGCg.acc.y * SimDeltaTime;
-	car->DynGCg.vel.z += car->DynGCg.acc.z * SimDeltaTime;
 
-	car->DynGCg.vel.ax += car->DynGCg.acc.ax * SimDeltaTime;
-	car->DynGCg.vel.ay += car->DynGCg.acc.ay * SimDeltaTime;
-	car->DynGCg.vel.az += car->DynGCg.acc.az * SimDeltaTime;
-	
-	/* spin limitation */
-	if (fabs(car->DynGCg.vel.az) > 9.0) {
-		car->DynGCg.vel.az = (tdble) (SIGN(car->DynGCg.vel.az) * 9.0);
-	}
-		
-	car->DynGC.vel.ax = car->DynGCg.vel.ax;
-	car->DynGC.vel.ay = car->DynGCg.vel.ay;
-	car->DynGC.vel.az = car->DynGCg.vel.az;
-	
-	car->DynGC.vel.x = car->DynGCg.vel.x * Cosz + car->DynGCg.vel.y * Sinz;
-	car->DynGC.vel.y = -car->DynGCg.vel.x * Sinz + car->DynGCg.vel.y * Cosz;
-	car->DynGC.vel.z = car->DynGCg.vel.z;
+		tdble Cosz, Sinz;
+		tdble mass;
 
-	/* 2D speed */
-	car->DynGC.vel.xy = sqrt(car->DynGCg.vel.x * car->DynGCg.vel.x  +
-		 car->DynGCg.vel.y * car->DynGCg.vel.y);
+		mass = car->mass + car->fuel;
+
+		Cosz = car->Cosz;
+		Sinz = car->Sinz;
+
+		car->DynGCg.vel.x += car->DynGCg.acc.x * SimDeltaTime;
+		car->DynGCg.vel.y += car->DynGCg.acc.y * SimDeltaTime;
+		car->DynGCg.vel.z += car->DynGCg.acc.z * SimDeltaTime;
+
+		car->DynGCg.vel.ax += car->DynGCg.acc.ax * SimDeltaTime;
+		car->DynGCg.vel.ay += car->DynGCg.acc.ay * SimDeltaTime;
+		car->DynGCg.vel.az += car->DynGCg.acc.az * SimDeltaTime;
+
+		/* spin limitation */
+		if (fabs(car->DynGCg.vel.az) > 9.0) {
+			car->DynGCg.vel.az = (tdble) (SIGN(car->DynGCg.vel.az) * 9.0);
+		}
+
+		car->DynGC.vel.ax = car->DynGCg.vel.ax;
+		car->DynGC.vel.ay = car->DynGCg.vel.ay;
+		car->DynGC.vel.az = car->DynGCg.vel.az;
+
+		car->DynGC.vel.x = car->DynGCg.vel.x * Cosz + car->DynGCg.vel.y * Sinz;
+		car->DynGC.vel.y = -car->DynGCg.vel.x * Sinz + car->DynGCg.vel.y * Cosz;
+		car->DynGC.vel.z = car->DynGCg.vel.z;
+
+		/* 2D speed */
+		car->DynGC.vel.xy = sqrt(
+				car->DynGCg.vel.x * car->DynGCg.vel.x
+						+ car->DynGCg.vel.y * car->DynGCg.vel.y);
+
 }
 
 void
@@ -494,7 +498,8 @@ SimTelemetryOut(tCar *car)
 	}
 	else if (car->ctrl->telemetryMode == 3)
 	{
-		printf("Car spd:%.1f km/h %.2f m/s air spd:%.2f m/s spd2:%.2f m2/s2\n", car->DynGC.vel.x*3.6f, car->DynGC.vel.x, sqrt(car->airSpeed2), car->airSpeed2);
+		//printf("Car spd:%.1f km/h %.2f m/s \n", car->DynGC.vel.x*3.6f, car->DynGC.vel.x);
+		printf("wheel spin velocity: %f; Car spd:%.1f km/h %.2f m/s\n", car->wheel[0].spinVel, car->DynGC.vel.x*3.6f, car->DynGC.vel.x);
 	}
 }
 

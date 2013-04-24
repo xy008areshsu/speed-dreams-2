@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -g    CMakeFiles/sd2-nfs2ac.dir/mainnfs2ac.cpp.o  -o sd2-nfs2ac -rdynamic -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::: 

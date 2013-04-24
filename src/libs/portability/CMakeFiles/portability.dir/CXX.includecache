@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/portability/portability.cpp
+portability.h
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/portability/portability.h
+
+/home/ares/Developer/speed-dream-2.0/speed/src/libs/portability/portability.h
+cstdlib
+-
+cstring
+-
+cmath
+-
+direct.h
+-
+process.h
+-
+unistd.h
+-
+config.h
+-
+
+config.h
+

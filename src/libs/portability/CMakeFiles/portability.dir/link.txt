@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -g   -shared -Wl,-soname,libportability.so -o libportability.so CMakeFiles/portability.dir/portability.cpp.o -Wl,-rpath,::::::::::::::::::::::::::::::::::::::::: 

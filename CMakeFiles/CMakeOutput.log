@@ -1,0 +1,731 @@
+The system is: Linux - 3.5.0-27-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec414877749/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec414877749.dir/build.make CMakeFiles/cmTryCompileExec414877749.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec414877749.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec414877749.dir/testCCompiler.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec414877749
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec414877749.dir/link.txt --verbose=1
+/usr/bin/gcc         CMakeFiles/cmTryCompileExec414877749.dir/testCCompiler.c.o  -o cmTryCompileExec414877749 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec511698163/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec511698163.dir/build.make CMakeFiles/cmTryCompileExec511698163.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec511698163
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec511698163.dir/link.txt --verbose=1
+/usr/bin/gcc       -v CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec511698163 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/usr/bin/gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.7/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.7.2-2ubuntu1' --with-bugurl=file:///usr/share/doc/gcc-4.7/README.Bugs --enable-languages=c,c++,go,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.7 --enable-shared --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.7 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --enable-plugin --enable-objc-gc --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec511698163' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.7/collect2 --sysroot=/ --build-id --no-add-needed --as-needed --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec511698163 /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.7 -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../.. CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec511698163/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec511698163.dir/build.make CMakeFiles/cmTryCompileExec511698163.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec511698163]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec511698163.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/gcc       -v CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec511698163 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.7/lto-wrapper]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.7.2-2ubuntu1' --with-bugurl=file:///usr/share/doc/gcc-4.7/README.Bugs --enable-languages=c,c++,go,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.7 --enable-shared --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.7 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --enable-plugin --enable-objc-gc --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec511698163' '-rdynamic' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.7/collect2 --sysroot=/ --build-id --no-add-needed --as-needed --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec511698163 /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.7 -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../.. CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/collect2] ==> ignore
+    arg [--sysroot=/] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec511698163] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..]
+    arg [CMakeFiles/cmTryCompileExec511698163.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7] ==> [/usr/lib/gcc/x86_64-linux-gnu/4.7]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib] ==> [/usr/lib]
+  collapse dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse dir [/lib/../lib] ==> [/lib]
+  collapse dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..] ==> [/usr/lib]
+  implicit libs: [c]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/4.7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2351067589/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2351067589.dir/build.make CMakeFiles/cmTryCompileExec2351067589.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2351067589.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2351067589.dir/testCXXCompiler.cxx.o -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec2351067589
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2351067589.dir/link.txt --verbose=1
+/usr/bin/c++          CMakeFiles/cmTryCompileExec2351067589.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec2351067589 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec588319239/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec588319239.dir/build.make CMakeFiles/cmTryCompileExec588319239.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec588319239
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec588319239.dir/link.txt --verbose=1
+/usr/bin/c++        -v CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec588319239 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.7/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.7.2-2ubuntu1' --with-bugurl=file:///usr/share/doc/gcc-4.7/README.Bugs --enable-languages=c,c++,go,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.7 --enable-shared --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.7 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --enable-plugin --enable-objc-gc --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec588319239' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.7/collect2 --sysroot=/ --build-id --no-add-needed --as-needed --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec588319239 /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.7 -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../.. CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec588319239/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec588319239.dir/build.make CMakeFiles/cmTryCompileExec588319239.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec588319239]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec588319239.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++        -v CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec588319239 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.7/lto-wrapper]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.7.2-2ubuntu1' --with-bugurl=file:///usr/share/doc/gcc-4.7/README.Bugs --enable-languages=c,c++,go,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.7 --enable-shared --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.7 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --enable-plugin --enable-objc-gc --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.7/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec588319239' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.7/collect2 --sysroot=/ --build-id --no-add-needed --as-needed --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec588319239 /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.7 -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../.. CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/collect2] ==> ignore
+    arg [--sysroot=/] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec588319239] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..]
+    arg [CMakeFiles/cmTryCompileExec588319239.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7] ==> [/usr/lib/gcc/x86_64-linux-gnu/4.7]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../../../lib] ==> [/usr/lib]
+  collapse dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse dir [/lib/../lib] ==> [/lib]
+  collapse dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse dir [/usr/lib/gcc/x86_64-linux-gnu/4.7/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;c]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/4.7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1873423819/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1873423819.dir/build.make CMakeFiles/cmTryCompileExec1873423819.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1873423819.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec1873423819.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec1873423819
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1873423819.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec1873423819.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec1873423819 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files memory.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec72681394/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec72681394.dir/build.make CMakeFiles/cmTryCompileExec72681394.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec72681394.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec72681394.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec72681394
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec72681394.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec72681394.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec72681394 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2957829339/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2957829339.dir/build.make CMakeFiles/cmTryCompileExec2957829339.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2957829339.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec2957829339.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec2957829339
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2957829339.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec2957829339.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec2957829339 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files stdlib.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1463160817/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1463160817.dir/build.make CMakeFiles/cmTryCompileExec1463160817.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1463160817.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec1463160817.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec1463160817
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1463160817.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec1463160817.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec1463160817 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files strings.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3578676981/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3578676981.dir/build.make CMakeFiles/cmTryCompileExec3578676981.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3578676981.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec3578676981.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec3578676981
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3578676981.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec3578676981.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec3578676981 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files string.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3136794574/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3136794574.dir/build.make CMakeFiles/cmTryCompileExec3136794574.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3136794574.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec3136794574.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec3136794574
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3136794574.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec3136794574.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec3136794574 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files sys/stat.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3323859500/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3323859500.dir/build.make CMakeFiles/cmTryCompileExec3323859500.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3323859500.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec3323859500.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec3323859500
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3323859500.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec3323859500.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec3323859500 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2649770760/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2649770760.dir/build.make CMakeFiles/cmTryCompileExec2649770760.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2649770760.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec2649770760.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec2649770760
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2649770760.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec2649770760.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec2649770760 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files unistd.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2740338002/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2740338002.dir/build.make CMakeFiles/cmTryCompileExec2740338002.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2740338002.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec2740338002.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec2740338002
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2740338002.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec2740338002.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec2740338002 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function strndup exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2955929585/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2955929585.dir/build.make CMakeFiles/cmTryCompileExec2955929585.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2955929585.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=strndup   -o CMakeFiles/cmTryCompileExec2955929585.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:6: warning: conflicting types for built-in function ‘strndup’ [enabled by default]
+Linking C executable cmTryCompileExec2955929585
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2955929585.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=strndup    CMakeFiles/cmTryCompileExec2955929585.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2955929585 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function strtok_r exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec114655786/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec114655786.dir/build.make CMakeFiles/cmTryCompileExec114655786.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec114655786.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=strtok_r   -o CMakeFiles/cmTryCompileExec114655786.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec114655786
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec114655786.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=strtok_r    CMakeFiles/cmTryCompileExec114655786.dir/CheckFunctionExists.c.o  -o cmTryCompileExec114655786 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function isnan exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec366827779/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec366827779.dir/build.make CMakeFiles/cmTryCompileExec366827779.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec366827779.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=isnan   -o CMakeFiles/cmTryCompileExec366827779.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:6: warning: conflicting types for built-in function ‘isnan’ [enabled by default]
+Linking C executable cmTryCompileExec366827779
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec366827779.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=isnan    CMakeFiles/cmTryCompileExec366827779.dir/CheckFunctionExists.c.o  -o cmTryCompileExec366827779 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2295678455/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2295678455.dir/build.make CMakeFiles/cmTryCompileExec2295678455.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2295678455.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTryCompileExec2295678455.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2295678455
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2295678455.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    CMakeFiles/cmTryCompileExec2295678455.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2295678455 -rdynamic -lX11 -lXext 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3867993185/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3867993185.dir/build.make CMakeFiles/cmTryCompileExec3867993185.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3867993185.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTryCompileExec3867993185.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3867993185
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3867993185.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=gethostbyname    CMakeFiles/cmTryCompileExec3867993185.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3867993185 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2440188334/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2440188334.dir/build.make CMakeFiles/cmTryCompileExec2440188334.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2440188334.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTryCompileExec2440188334.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2440188334
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2440188334.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=connect    CMakeFiles/cmTryCompileExec2440188334.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2440188334 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3581768136/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3581768136.dir/build.make CMakeFiles/cmTryCompileExec3581768136.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3581768136.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTryCompileExec3581768136.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3581768136
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3581768136.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=remove    CMakeFiles/cmTryCompileExec3581768136.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3581768136 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3492789564/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3492789564.dir/build.make CMakeFiles/cmTryCompileExec3492789564.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3492789564.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTryCompileExec3492789564.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3492789564
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3492789564.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=shmat    CMakeFiles/cmTryCompileExec3492789564.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3492789564 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4216805789/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4216805789.dir/build.make CMakeFiles/cmTryCompileExec4216805789.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4216805789.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTryCompileExec4216805789.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec4216805789
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4216805789.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    CMakeFiles/cmTryCompileExec4216805789.dir/CheckFunctionExists.c.o  -o cmTryCompileExec4216805789 -rdynamic -lICE 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function sin exists in the m passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3636342130/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3636342130.dir/build.make CMakeFiles/cmTryCompileExec3636342130.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3636342130.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=sin   -o CMakeFiles/cmTryCompileExec3636342130.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:6: warning: conflicting types for built-in function ‘sin’ [enabled by default]
+Linking C executable cmTryCompileExec3636342130
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3636342130.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=sin    CMakeFiles/cmTryCompileExec3636342130.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3636342130 -rdynamic -lm 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XShmCreateImage exists in the Xext passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec359798736/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec359798736.dir/build.make CMakeFiles/cmTryCompileExec359798736.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec359798736.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XShmCreateImage   -o CMakeFiles/cmTryCompileExec359798736.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec359798736
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec359798736.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XShmCreateImage    CMakeFiles/cmTryCompileExec359798736.dir/CheckFunctionExists.c.o  -o cmTryCompileExec359798736 -rdynamic -lXext 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceSetIOErrorHandler exists in the ICE passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec449250211/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec449250211.dir/build.make CMakeFiles/cmTryCompileExec449250211.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec449250211.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=IceSetIOErrorHandler   -o CMakeFiles/cmTryCompileExec449250211.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec449250211
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec449250211.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=IceSetIOErrorHandler    CMakeFiles/cmTryCompileExec449250211.dir/CheckFunctionExists.c.o  -o cmTryCompileExec449250211 -rdynamic -lICE 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function SmsSetErrorHandler exists in the SM passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec14629746/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec14629746.dir/build.make CMakeFiles/cmTryCompileExec14629746.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec14629746.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=SmsSetErrorHandler   -o CMakeFiles/cmTryCompileExec14629746.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec14629746
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec14629746.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=SmsSetErrorHandler    CMakeFiles/cmTryCompileExec14629746.dir/CheckFunctionExists.c.o  -o cmTryCompileExec14629746 -rdynamic -lSM 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XtDisplay exists in the Xt passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2459867815/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2459867815.dir/build.make CMakeFiles/cmTryCompileExec2459867815.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2459867815.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XtDisplay   -o CMakeFiles/cmTryCompileExec2459867815.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2459867815
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2459867815.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XtDisplay    CMakeFiles/cmTryCompileExec2459867815.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2459867815 -rdynamic -lXt 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDevice exists in the Xi passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1824896402/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1824896402.dir/build.make CMakeFiles/cmTryCompileExec1824896402.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1824896402.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XOpenDevice   -o CMakeFiles/cmTryCompileExec1824896402.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1824896402
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1824896402.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XOpenDevice    CMakeFiles/cmTryCompileExec1824896402.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1824896402 -rdynamic -lXi 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XmuSimpleErrorHandler exists in the Xmu passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1056916885/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1056916885.dir/build.make CMakeFiles/cmTryCompileExec1056916885.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1056916885.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XmuSimpleErrorHandler   -o CMakeFiles/cmTryCompileExec1056916885.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1056916885
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1056916885.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XmuSimpleErrorHandler    CMakeFiles/cmTryCompileExec1056916885.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1056916885 -rdynamic -lXmu 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XF86VidModeSetViewPort exists in the Xxf86vm passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec973127664/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec973127664.dir/build.make CMakeFiles/cmTryCompileExec973127664.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec973127664.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XF86VidModeSetViewPort   -o CMakeFiles/cmTryCompileExec973127664.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec973127664
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec973127664.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XF86VidModeSetViewPort    CMakeFiles/cmTryCompileExec973127664.dir/CheckFunctionExists.c.o  -o cmTryCompileExec973127664 -rdynamic -lXxf86vm 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XRenderSetSubpixelOrder exists in the Xrender passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4061923627/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4061923627.dir/build.make CMakeFiles/cmTryCompileExec4061923627.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4061923627.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XRenderSetSubpixelOrder   -o CMakeFiles/cmTryCompileExec4061923627.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec4061923627
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4061923627.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XRenderSetSubpixelOrder    CMakeFiles/cmTryCompileExec4061923627.dir/CheckFunctionExists.c.o  -o cmTryCompileExec4061923627 -rdynamic -lXrender 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XRRQueryVersion exists in the Xrandr passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3974836165/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3974836165.dir/build.make CMakeFiles/cmTryCompileExec3974836165.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3974836165.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XRRQueryVersion   -o CMakeFiles/cmTryCompileExec3974836165.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3974836165
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3974836165.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=XRRQueryVersion    CMakeFiles/cmTryCompileExec3974836165.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3974836165 -rdynamic -lXrandr 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function dlopen exists in the dl passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3369392749/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3369392749.dir/build.make CMakeFiles/cmTryCompileExec3369392749.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3369392749.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=dlopen   -o CMakeFiles/cmTryCompileExec3369392749.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3369392749
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3369392749.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=dlopen    CMakeFiles/cmTryCompileExec3369392749.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3369392749 -rdynamic -ldl 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3037558802/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3037558802.dir/build.make CMakeFiles/cmTryCompileExec3037558802.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3037558802.dir/CheckIncludeFiles.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers     -o CMakeFiles/cmTryCompileExec3037558802.dir/CheckIncludeFiles.c.o   -c /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec3037558802
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3037558802.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers      CMakeFiles/cmTryCompileExec3037558802.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec3037558802 -rdynamic 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1292061546/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1292061546.dir/build.make CMakeFiles/cmTryCompileExec1292061546.dir/build
+gmake[1]: Entering directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1292061546.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec1292061546.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1292061546
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1292061546.dir/link.txt --verbose=1
+/usr/bin/gcc    -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec1292061546.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1292061546 -rdynamic -lpthread 
+gmake[1]: Leaving directory `/home/ares/Developer/speed-dream-2.0/speed/CMakeFiles/CMakeTmp'
+
+

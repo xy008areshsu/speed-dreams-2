@@ -24,6 +24,8 @@ static const char *WheelSect[4] = {SECT_FRNTRGTWHEEL, SECT_FRNTLFTWHEEL, SECT_RE
 static const char *SuspSect[4] = {SECT_FRNTRGTSUSP, SECT_FRNTLFTSUSP, SECT_REARRGTSUSP, SECT_REARLFTSUSP};
 static const char *BrkSect[4] = {SECT_FRNTRGTBRAKE, SECT_FRNTLFTBRAKE, SECT_REARRGTBRAKE, SECT_REARLFTBRAKE};
 
+bool setWheelSpin = true;
+
 void
 SimWheelConfig(tCar *car, int index)
 {
@@ -281,9 +283,18 @@ SimWheelUpdateRotation(tCar *car)
 	tWheel *wheel;
 	tdble deltan;
 	tdble cosaz, sinaz;
+	if(car->ctrl->brakeCmd != 1.0)
+		setWheelSpin = true;
 
 	for (i = 0; i < 4; i++) {
 		wheel = &(car->wheel[i]);
+		if(car->ctrl->brakeCmd == 1.0 && car->ctrl->accelCmd == 0) {
+			if(setWheelSpin == true){
+				wheel->in.spinVel = 0;
+				wheel->prespinVel = 0;
+				setWheelSpin = false;
+			}
+		}
 		/*calculate gyroscopic forces*/
 		cosaz = cos(wheel->relPos.az);
 		sinaz = sin(wheel->relPos.az);

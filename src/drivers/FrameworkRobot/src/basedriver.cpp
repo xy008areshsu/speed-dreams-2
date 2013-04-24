@@ -9,7 +9,7 @@
 // File         : basedriver.cpp
 // Created      : 2009.05.01
 // Last changed : 2011.11.09
-// Copyright    : © 2006-2011 Wolf-Dieter Beelitz
+// Copyright    : ï¿½ 2006-2011 Wolf-Dieter Beelitz
 // eMail        : wdb@wdbee.de
 // Version      : 1.00.001
 //--------------------------------------------------------------------------*
@@ -51,6 +51,7 @@ char TrackNameBuffer[BUFLEN];                    // Buffer for track name
 char PathToWriteToBuffer[BUFLEN];                // for path we write to
 char TrackLoadBuffer[BUFLEN];                    // Buffer for track load
 bool start;
+const tdble brakeSpeed = 35.0;
 //==========================================================================*
 
 //--------------------------------------------------------------------------*
@@ -316,7 +317,7 @@ bool TBaseDriver::Initialize()
 //--------------------------------------------------------------------------*
 void TBaseDriver::Drive()
 {
-	if(oCurrSpeed >=22)
+	if(oCurrSpeed >=brakeSpeed)
 		start = true;
 	else if(oCurrSpeed <=1)
 		start = false;
@@ -907,9 +908,9 @@ void TBaseDriver::SetCommand()
 		oCar->ctrl.clutchCmd = oClutch;
 		oCar->ctrl.gear = oGear;
 		oCar->ctrl.steer = oSteer;
-    		oCar->ctrl.lightCmd =                      // All lights on
-		    RM_LIGHT_HEAD1 | RM_LIGHT_HEAD2;
-
+		oCar->ctrl.lightCmd = RM_LIGHT_HEAD1 | RM_LIGHT_HEAD2;                     // All lights on
+		for(int i = 0; i < 4; i++)
+			oCar->priv.wheel[i].spinVel = 1;
 	}
 
 	else{
@@ -1904,7 +1905,7 @@ void TBaseDriver::Turning()
 //==========================================================================*
 
 //==========================================================================*
-// S²GCuASL ;D
+// Sï¿½GCuASL ;D
 // = Simplified sequential gear controller using adaptive shift levels
 //--------------------------------------------------------------------------*
 void TBaseDriver::GearTronic()
